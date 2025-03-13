@@ -19,5 +19,5 @@ for i in range(5):
       print(interger, j)
 
   print("Hello, world!")
-  print("Hello, world!")
-  print("Hello, world!")
+  print("You are on the best!")
+  print("Hello we are thge gest")
